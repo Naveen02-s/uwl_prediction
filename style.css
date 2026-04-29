@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #e6f2ff;
+  text-align: center;
+  padding: 50px;
+}
+
+.container {
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  width: 420px;
+  margin: auto;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+input {
+  padding: 10px;
+  width: 70%;
+  margin: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background: #0077cc;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #005fa3;
+}
+
+#result {
+  margin-top: 20px;
+  text-align: left;
+}
+
+canvas {
+  margin-top: 20px;
+}
